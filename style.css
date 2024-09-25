@@ -1,7 +1,10 @@
 body {background-color: blue;
 }
 h1 {text-align: center;}
-#img{width: 50%;}
+#img{width: 50%;
+border-style: groove;
+border-color: darkblue;}
+
 h2 {text-align: center;
 color: dodgerblue;
 background: fixed;}
@@ -14,7 +17,8 @@ color: rgb(98, 255, 35);
 font-size: 50px;
 }
 h4 {text-align: center;
-border-color: darkgoldenrod;
+border-color: rgb(253, 2, 2);
+border-style: groove;
 }
 h5 {text-align: center;
 color: rgb(255, 238, 3);
