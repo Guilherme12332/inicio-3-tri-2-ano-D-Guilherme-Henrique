@@ -1,27 +1,26 @@
-body {background-color: rgb(157, 255, 0);
+body {background-color: chartreuse;
 }
-h1 {text-align: center;}
-#img{width: 50%;
+h1 {text-align: center;
+text-decoration: wavy;
+color: darkorchid;
+border-style: solid;
+border-color: darkgrey;
+}
+#img1 {margin-left: 37%;
+border-style: groove;
+border-color: darkslateblue;
+border-width: 10px;
+}
+h2 {color: crimson;
+}
+#img2 {margin-left: 40%;
 border-style: double;
-border-color: rgb(139, 0, 0);
-border-width: 6px;}
-
-h2 {text-align: center;
-color: dodgerblue;
-background: fixed;}
-h2 {text-align: center;
-color: rgb(226, 43, 43);
-background: scroll;
-font-size: 50px;}
-h3{text-align: center;
-color: rgb(98, 255, 35);
-font-size: 50px;
+border-color: forestgreen;
+border-width: 10px;
 }
-h4 {text-align: center;
-border-color: rgb(199, 253, 2);
-border-style: double;
-border-width: 3px;
+h3 {border-style: double;
+border-color: cornflowerblue;
 }
-h5 {text-align: center;
-color: rgb(255, 238, 3);
-font-size: 50px;}
+h5 {border-style: dotted;
+border-color: darkblue;
+}
