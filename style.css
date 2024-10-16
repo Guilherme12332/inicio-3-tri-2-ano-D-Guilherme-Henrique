@@ -13,11 +13,11 @@ border-width: 10px;
 }
 h2 {color: crimson;
 }
-#img2 {margin-left: 40%;
+#img2 {margin-right: 40%;
 border-style: double;
 border-color: forestgreen;
 border-width: 10px;
-}
+#img2 {size: 30px;}}
 h3 {border-style: double;
 border-color: rgb(255, 255, 255);
 }
